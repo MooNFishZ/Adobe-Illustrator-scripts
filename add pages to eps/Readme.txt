@@ -1,4 +1,4 @@
-Доавбвляет страницу из pdf в файл eps в виде артборда.
+Добавляет страницу из pdf в файл eps в виде артборда.
 
 Вам понадобится этот файл для использования скрипта:
 https://github.com/MooNFishZ/illustrator-scripts/blob/957c52910c2aafc52f56ad3dfde19256d6f20697/createArtboardsFromTheSelection.jsx
