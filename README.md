@@ -1,5 +1,5 @@
 # Adobe-Illustrator-scripts
 
-This is a cuple of **experimental** JS scripts for Adobe Illustrator. Created by me, sometimes using parts of other authors’ code.
+Это пара **экспериментальных** JS-скриптов для Adobe Illustrator. Созданны мной, иногда с использованием частей кода других авторов.
 
-Test environment: Illustrator CC 2024 (Windows 10).
+Проверено на: Illustrator CC 2024 (Windows 10).
