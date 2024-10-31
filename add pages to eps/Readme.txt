@@ -1,6 +1,5 @@
-You will need this  file to use script:
+Вам понадобится этот файл для использования скрипта:
 https://github.com/MooNFishZ/illustrator-scripts/blob/957c52910c2aafc52f56ad3dfde19256d6f20697/createArtboardsFromTheSelection.jsx
+Поместите его в папку юзера / Documents.
 
-Put it to windows User folder / Documents.
-
-If I have time I will try to make my optimized version later.
+Если будет время, я попробую сделать оптимизированную версию позже.
