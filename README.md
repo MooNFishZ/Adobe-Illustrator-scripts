@@ -1,4 +1,5 @@
 # Adobe-Illustrator-scripts
 
-This is a cuple of custom JS scripts for Adobe Illustrator. Scripts created by me, using parts of other authors’ code.
+This is a cuple of **experimental** JS scripts for Adobe Illustrator. Created by me, sometimes using parts of other authors’ code.
+
 Test environment: Illustrator CC 2024 (Windows 10).
